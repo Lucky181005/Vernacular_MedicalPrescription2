@@ -60,6 +60,67 @@
       "accuracy_score": 100.0,
       "audio_file": "audio_files\\20260227_224637_Hindi.mp3",
       "audio_available": true
+    },
+    {
+      "id": "20260227_233642",
+      "date": "2026-02-27 23:36:42",
+      "image_file": "sample2.jpeg",
+      "language": "Telugu",
+      "medicine_count": 7,
+      "medicines": [
+        {
+          "name": "TAB. SOMPRAZ 40MG",
+          "dosage": "1-0-1",
+          "frequency": "Every day",
+          "duration": "1 month",
+          "confidence": "High"
+        },
+        {
+          "name": "TAB. DILNIP T 40MG",
+          "dosage": "1-0-0",
+          "frequency": "Every day",
+          "duration": "1 month",
+          "confidence": "High"
+        },
+        {
+          "name": "TAB. ROZAVEL EZ",
+          "dosage": "0-0-1",
+          "frequency": "Every day",
+          "duration": "1 month",
+          "confidence": "High"
+        },
+        {
+          "name": "TAB. MYOSPAS",
+          "dosage": "1-0-1",
+          "frequency": "Every day",
+          "duration": "3 months",
+          "confidence": "High"
+        },
+        {
+          "name": "SYP. DOLCID SYP",
+          "dosage": "1-0-1",
+          "frequency": "Every day",
+          "duration": "1 month",
+          "confidence": "High"
+        },
+        {
+          "name": "TAB. D-RISE 60K",
+          "dosage": "0-0-1",
+          "frequency": "Weekly",
+          "duration": "8 weeks",
+          "confidence": "High"
+        },
+        {
+          "name": "GEL NANOFASST",
+          "dosage": "1-0-1",
+          "frequency": "As needed",
+          "duration": "Till Next Visit",
+          "confidence": "High"
+        }
+      ],
+      "accuracy_score": 100.0,
+      "audio_file": "audio_files\\20260227_233642_Telugu.mp3",
+      "audio_available": true
     }
   ]
 }
