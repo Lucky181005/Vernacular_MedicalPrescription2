@@ -2,3 +2,8 @@ google-generativeai
 python-dotenv
 Pillow
 deep-translator
+gtts
+matplotlib
+tabulate
+
+
